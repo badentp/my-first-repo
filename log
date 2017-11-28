@@ -1,0 +1,17 @@
+commit 8e7b3a929445e495a1182e687ae2ee1ce77e45ce
+Author: badentp <trevorbaden@gmail.com>
+Date:   Tue Nov 28 14:01:31 2017 +0000
+
+    added test.txt to gitignore
+
+commit 02ceefc2e6935c3aa82325a29eb761966c9fc3eb
+Author: badentp <trevorbaden@gmail.com>
+Date:   Tue Nov 28 13:53:02 2017 +0000
+
+    added gitignore
+
+commit e22c1d1dbbadf595ebc87b8326baa98dc0798bf1
+Author: badentp <trevorbaden@gmail.com>
+Date:   Tue Nov 28 13:41:05 2017 +0000
+
+    files from the coursera unix workbench course
